@@ -1,0 +1,12 @@
+{
+  "name": "FormBuilder",
+  "version": "1.0.0",
+  "description": "An OOP approach to generating forms for the web",
+  "main": "index.js",
+  "author": "Nouw <nouw@nouw.net>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.0.2"
+  },
+  "packageManager": "yarn@3.4.1"
+}
